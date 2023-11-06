@@ -81,17 +81,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 │   ├── logo512.png
 │   ├── manifest.json
 │   └── robots.txt
-├── src
-│      ├── App.css
-│      ├── App.js
-│      ├── App.test.js
-│      ├── assets
-│      │   └── mateusinho.jpeg
-│      ├── index.css
-│      ├── index.js
-│      ├── logo.svg
-│      ├── reportWebVitals.js
-│      └── setupTests.js
+└── src
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── assets
+│   │   └── mateusinho.jpeg
+│   ├── imports.js
+│   ├── index.css
+│   ├── index.js
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   ├── setupTests.js
+│   ├── usersList.js
+│   ├── videosList.js
+│   └── videoStatus.js
 ├── index.js
 ├── logo.svg
 ├── reportWebVita
